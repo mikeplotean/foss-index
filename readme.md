@@ -1,4 +1,4 @@
-# **Table of contents**
+# Table of contents
 
 * [AI](#ai)
 * [All-in-one](#all-in-one)
@@ -41,21 +41,21 @@
 * [Video Converter](#video-converter)
 * [Video Surveillance](#video-surveillance)
 
-# **AI**
+# AI
 
 * [bmad](https://github.com/bmadcode/BMAD-METHOD) (ai agile)  
 * [task-master](https://github.com/eyaltoledano/claude-task-master) (ai task management)
 
-# **All-in-one**
+# All-in-one
 
 * [huly](https://github.com/hcengineering/platform)  
 * [odoo](https://github.com/odoo/odoo) (business apps)
 
-# **Analytics**
+# Analytics
 
 * [umami](https://github.com/umami-software/umami) (google analytics alternative)
 
-# **API testing (postman alternatives)**
+# API testing (postman alternatives)
 
 * [bruno](https://github.com/usebruno/bruno) (offline\!)  
 * [hawkclient](https://github.com/prashantrathi123/hawkClient) (offline\!)  
@@ -63,64 +63,64 @@
 * [hurl](https://github.com/Orange-OpenSource/hurl) (command-line using plaintext format)  
 * [requestly](https://github.com/requestly/requestly)
 
-# **Architecture**
+# Architecture
 
 * [structurizr](https://github.com/structurizr/onpremises)
 
-# **Automation**
+# Automation
 
 * [robot framework](https://robotframework.org/)  
 * [huginn](https://github.com/huginn/huginn)  
 * [automatisch](https://github.com/automatisch/automatisch)  
 * [n8n](https://github.com/n8n-io/n8n)
 
-# **Backup**
+# Backup
 
 * [minarca](https://github.com/ikus060/minarca)
 
-# **Billing**
+# Billing
 
 * [Lago](https://github.com/getlago/lago)  
 * [fossBilling](https://github.com/FOSSBilling/FOSSBilling)
 
-# **Build tools**
+# Build tools
 
 * [bazel](https://github.com/bazelbuild/bazel/)
 
-# **CRM**
+# CRM
 
 * [monica](https://github.com/monicahq/monica)  
 * [krayincrm](https://github.com/krayin/laravel-crm)  
 * [twenty](https://github.com/twentyhq/twenty)
 
-# **Customer support**
+# Customer support
 
 * [papercups](https://github.com/papercups-io/papercups)
 
-# **Data integration**
+# Data integration
 
 * [airbyte](https://github.com/airbytehq/airbyte)
 
-# **Design tools**
+# Design tools
 
 * [penpot](https://github.com/penpot/penpot)  
 * [excalidraw](https://github.com/excalidraw/excalidraw) (virtual whiteboard)  
 * [wbo](https://github.com/lovasoa/whitebophir)
 
-# **Documentation**
+# Documentation
 
 * [codex docs](https://github.com/codex-team/codex.docs)  
 * [otter-wiki](https://github.com/redimp/otterwiki)
 
-# **Document processing**
+# Document processing
 
 * [reubah](https://github.com/dendianugerah/reubah)
 
-# **Error tracking**
+# Error tracking
 
 * [glitchtip](https://gitlab.com/glitchtip/glitchtip)
 
-# **Help Desk**
+# Help Desk
 
 * [freescout](https://github.com/freescout-help-desk/freescout)  
 * [osticket](https://osticket.com/features/)  
@@ -131,17 +131,17 @@
 * [chatwoot](https://github.com/chatwoot/chatwoot)  
 * [otrs](https://otrscommunityedition.com/)
 
-# **Hosting**
+# Hosting
 
 * [coolify](https://github.com/coollabsio/coolify)
 
-# **IAM**
+# IAM
 
 * [keycloak](https://github.com/keycloak/keycloak)  
 * [Zitadel](https://github.com/zitadel/zitadel)  
 * [voidauth](https://github.com/voidauth/voidauth)
 
-# **Knowledge management**
+# Knowledge management
 
 * [appflowy](https://github.com/AppFlowy-IO/AppFlowy) (md \+ rt)  
 * [logseq](https://hub.logseq.com/) (md)  
@@ -152,20 +152,20 @@
 * [bookstack](https://github.com/BookStackApp/BookStack) (md)  
 * [pydio-cells](https://github.com/pydio/cells)
 
-# **Mailing list management**
+# Mailing list management
 
 * [listmonk](https://github.com/knadh/listmonk)
 
-# **Messaging**
+# Messaging
 
 * chaskiq  
 * matter-most (enterprise)
 
-# **Metering**
+# Metering
 
 * [openmeter](https://github.com/openmeterio/openmeter)
 
-# **Monitoring**
+# Monitoring
 
 * [uptime-kuma](https://github.com/louislam/uptime-kuma) \- public status pages, no agent  
 * [checkmate](https://github.com/bluewave-labs/checkmate) \- no public status pages, yes agent (for cpu, temp, etc. monitoring)  
@@ -174,11 +174,11 @@
 * [zabbix](https://github.com/zabbix/zabbix)  
 * [checkmk](https://github.com/Checkmk/checkmk)
 
-# **Notifying**
+# Notifying
 
 * [gotify](https://github.com/gotify/server)
 
-# **Project management**
+# Project management
 
 * open-project  
 * taiga  
@@ -189,24 +189,24 @@
 * [Plane](https://github.com/makeplane/plane)  
 * [taskosaur](https://github.com/Taskosaur/Taskosaur)
 
-# **Productivity**
+# Productivity
 
 * [super-productivity](https://super-productivity.com/)
 
-# **Security**
+# Security
 
 * [trivy](https://github.com/aquasecurity/trivy)  
 * [wazuh](https://github.com/wazuh/wazuh)
 
-# **Single-sign-on**
+# Single-sign-on
 
 * authentik
 
-# **Social network**
+# Social network
 
 * [humhub](https://github.com/humhub/humhub)
 
-# **Test case management systems**
+# Test case management systems
 
 * [growthbook](https://www.growthbook.io)  
 * [cucumber](https://cucumber.io/tools/cucumber-open/)  
@@ -216,48 +216,48 @@
 * [nitrate](https://github.com/Nitrate/Nitrate)  
 * [quAck](https://github.com/greatbit/quack)
 
-# **Test data generation tools**
+# Test data generation tools
 
 * [AnkrPt Pairwise](https://kimputing.com/pairwise/) (pairwise)  
 * [PICT](https://github.com/microsoft/pict) (pairwise)  
 * [jenny](https://github.com/ligurio/jenny) (pairwise)
 
-# **Test frameworks**
+# Test frameworks
 
 * [jestjs](https://github.com/jestjs/jest) \- javascript
 
-# **Test reporting**
+# Test reporting
 
 * [allure-framework](https://github.com/allure-framework)
 
-# **Tunneling**
+# Tunneling
 
 * [pangolin](https://github.com/fosrl/pangolin)
 
-# **UI testing**
+# UI testing
 
 * [selenium](https://www.selenium.dev/)  
 * [specflow](https://specflow.org/)  
 * [testlink](https://github.com/TestLinkOpenSourceTRMS/testlink-code)  
 * [appium](http://appium.io)
 
-# **Utility tools**
+# Utility tools
 
 * [it-tools](https://github.com/CorentinTh/it-tools)
 
-# **VCS**
+# VCS
 
 * [gitea](https://github.com/go-gitea/gitea) \+ [drone](https://www.drone.io/)  
 * [gitlab](https://github.com/gitlabhq/gitlabhq)
 
-# **Video Conferencing**
+# Video Conferencing
 
 * [mirotalk](https://github.com/miroslavpejic85/mirotalk)
 
-# **Video Converter**
+# Video Converter
 
 * [Handbrake](https://handbrake.fr)
 
-# **Video Surveillance**
+# Video Surveillance
 
 * [secluso](https://github.com/secluso/secluso)
