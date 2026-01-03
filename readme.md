@@ -1,45 +1,71 @@
 # Table of contents
 
-* [AI](#ai)
-* [All-in-one](#all-in-one)
-* [Analytics](#analytics)
-* [API testing](#api-testing)
-* [Architecture](#architecture)
-* [Automation](#automation)
-* [Backup](#backup)
-* [Billing](#billing)
-* [Build tools](#build-tools)
-* [CRM](#crm)
-* [Customer support](#customer-support)
-* [Data integration](#data-integration)
-* [Design tools](#design-tools)
-* [Documentation](#documentation)
-* [Document processing](#document-processing)
-* [Error tracking](#error-tracking)
-* [Help Desk](#help-desk)
-* [Hosting](#hosting)
-* [IAM](#iam)
-* [Knowledge management](#knowledge-management)
-* [Mailing list management](#mailing-list-management)
-* [Messaging](#messaging)
-* [Metering](#metering)
-* [Monitoring](#monitoring)
-* [Notifying](#notifying)
-* [Project management](#project-management)
-* [Productivity](#productivity)
-* [Security](#security)
-* [Single-sign-on](#signle-sign-on)
-* [Social network](#social-network)
-* [Test case management systems](#test-case-management-systems)
-* [Test data generation tools](#test-data-generation-tools)
-* [Test frameworks](#test-frameworks)
-* [Tunneling](#tunneling)
-* [UI testing](#ui-testing)
-* [Utility tools](#utility-tools)
-* [VCS](#vcs)
-* [Video Conferencing](#video-conferencing)
-* [Video Converter](#video-converter)
-* [Video Surveillance](#video-surveillance)
+* **A**
+  * [AI](#ai)
+  * [All-in-one](#all-in-one)
+  * [Analytics](#analytics)
+  * [API testing](#api-testing)
+  * [Architecture](#architecture)
+  * [Automation](#automation)
+* **B**
+  * [Backup](#backup)
+  * [Billing](#billing)
+  * [Build tools](#build-tools)
+* **C**
+  * [CRM](#crm)
+  * [Customer support](#customer-support)
+* **D**
+  * [Data integration](#data-integration)
+  * [Design tools](#design-tools)
+  * [Documentation](#documentation)
+  * [Document processing](#document-processing)
+* **E**
+  * [Error tracking](#error-tracking)
+* **F**
+* **G**
+* **H**
+  * [Help Desk](#help-desk)
+  * [Hosting](#hosting)
+* **I**
+  * [IAM](#iam)
+* **J**
+* **K**
+  * [Knowledge management](#knowledge-management)
+* **L**
+* **M**
+  * [Mailing list management](#mailing-list-management)
+  * [Messaging](#messaging)
+  * [Metering](#metering)
+  * [Monitoring](#monitoring)
+* **N**
+  * [Notifying](#notifying)
+* **O**
+* **P**
+  * [Project management](#project-management)
+  * [Productivity](#productivity)
+* **Q**
+* **R**
+* **S**
+  * [Security](#security)
+  * [Single-sign-on](#signle-sign-on)
+  * [Social network](#social-network)
+* **T**
+  * [Test case management systems](#test-case-management-systems)
+  * [Test data generation tools](#test-data-generation-tools)
+  * [Test frameworks](#test-frameworks)
+  * [Tunneling](#tunneling)
+* **U**
+  * [UI testing](#ui-testing)
+  * [Utility tools](#utility-tools)
+* **V**
+  * [VCS](#vcs)
+  * [Video Conferencing](#video-conferencing)
+  * [Video Converter](#video-converter)
+  * [Video Surveillance](#video-surveillance)
+* **W**
+* **X**
+* **Y**
+* **Z**
 
 # AI
 
